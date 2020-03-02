@@ -1,0 +1,5 @@
+C:\Users\sayed\Downloads\Security Package(2020)\Security Package\startupcode\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+C:\Users\sayed\Downloads\Security Package(2020)\Security Package\startupcode\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+C:\Users\sayed\Downloads\Security Package(2020)\Security Package\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.csprojResolveAssemblyReference.cache
+C:\Users\sayed\Downloads\Security Package(2020)\Security Package\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+C:\Users\sayed\Downloads\Security Package(2020)\Security Package\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
